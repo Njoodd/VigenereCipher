@@ -2,7 +2,7 @@
 
 ## King Saud University - College of Computer and Information Sciences
 ## Information Systems Department
-Course: Security - IS493
+Course: Security - IS493 </br>
 Supervisor: Ms. Afnan Alsadhan
 
 Projected done by:
